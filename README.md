@@ -13,10 +13,3 @@
 
 [![GitBook](https://img.shields.io/badge/GitBook-dcollao-red)](https://dcollao.gitbook.io/)
 
-
-
-
-## Tools and Technologies
-- **Operating Systems:** Kali Linux, Parrot OS, Windows 11
-- **Languages:** Python, PowerShell, Bash
-- **Tools:** Metasploit, NMAP, Burp Suite, SET, Nikto, Dirbuster, John
