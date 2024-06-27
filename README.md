@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 💻 Computer Engineering student with a focus on Offensive Security.
-- 🔭 Currently enhancing my skills in cybersecurity and pentesting.
-- ⚔️ Documenting my CTF experiences on my GitBook and LinkedIn.
+- 💻 IT professional with a strong interest in red team, ethical hacking, penetration testing, vulnerability analysis, and network security.
+- 🔭 Currently enhancing my skills in AD.
+- ⚔️ Documenting my CTF experiences on my GitBook and Obsidian.
 
 ## Connect with Me
 [![Hack The Box Badge](https://www.hackthebox.eu/badge/image/1199698)](https://www.hackthebox.eu/home/users/profile/1199698)
