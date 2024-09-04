@@ -11,5 +11,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dcollaoa-blue)](https://www.linkedin.com/in/dcollaoa)
 
-[![GitBook](https://img.shields.io/badge/GitBook-dcollao-red)](https://dcollao.gitbook.io/)
+[![Digital Garden](https://img.shields.io/badge/GitBook-dcollao-red)](https://dcollao.pages.dev)
 
