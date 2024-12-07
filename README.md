@@ -3,7 +3,6 @@
 ## About Me
 
 - 💻 IT professional with a strong interest in red team, ethical hacking, penetration testing, vulnerability analysis, and network security.
-- 🔭 Currently enhancing my skills in AD.
 - ⚔️ Documenting my CTF experiences on my Digital Garden and Obsidian.
 
 ## Connect with Me
